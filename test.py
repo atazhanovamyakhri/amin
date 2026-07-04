@@ -1,1 +1,1 @@
-vvuvyuvyv
+print("hello,world!")
